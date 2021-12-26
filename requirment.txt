@@ -1,0 +1,5 @@
+this is chat application requirment
+make goot user interface
+use emoji
+color
+varbrient
